@@ -2,16 +2,6 @@ import React, { useState, useRef } from 'react';
 import type { Product, Testimonial } from '../types';
 import { PRODUCTS, TESTIMONIALS, FAQ_DATA } from '../constants';
 import { CheckCircleIcon, ZapIcon, ShieldIcon, ChevronDownIcon, UsersIcon, TargetIcon, HeartIcon } from '../components/icons';
-import { 
-  TrendingUpIcon, 
-  ShieldCheckIcon, 
-  HomeIcon, 
-  BriefcaseIcon, 
-  SunIcon, 
-  MapPinIcon, 
-  MessageCircleIcon,
-  CalculatorIcon
-} from 'lucide-react'; // Assumindo lucide-react ou compatível, adaptado do código original
 
 // --- TYPES & CONSTANTS ---
 
