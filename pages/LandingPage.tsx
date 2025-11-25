@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import type { Product, Testimonial } from '../types';
 import { PRODUCTS, TESTIMONIALS, FAQ_DATA } from '../constants';
-import { CheckCircleIcon, ZapIcon, ShieldIcon, ChevronDownIcon, UsersIcon, TargetIcon, HeartIcon,TrendingUpIcon, ShieldCheckIcon, HomeIcon, BriefcaseIcon, MapPinIcon, MessageCircleIcon, CalculatorIcon } from '../components/icons';
+import { CheckCircleIcon, ZapIcon, ShieldIcon, ChevronDownIcon, UsersIcon, TargetIcon, HeartIcon,TrendingUpIcon, ShieldCheckIcon, HomeIcon, BriefcaseIcon, MapPinIcon, MessageCircleIcon, CalculatorIcon, SunIcon } from '../components/icons';
 
 // --- TYPES & CONSTANTS ---
 
