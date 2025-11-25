@@ -12,25 +12,25 @@ export default {
     extend: {
       colors: {
         primary: {
-          DEFAULT: '#0891b2', // cyan-600
-          light: '#22d3ee',   // cyan-400
-          dark: '#0e7490',    // cyan-700
+          DEFAULT: '#0F4C75', // azul institucional - identifica confiança e modernidade
+          light: '#3282B8',   // variação clara para CTAs
+          dark: '#1B262C',    // variação escura para contraste premium
         },
         secondary: {
-          DEFAULT: '#f97316', // orange-500
-          light: '#fb923c',   // orange-400
-          dark: '#ea580c',    // orange-600
+          DEFAULT: '#F9A826', // dourado-acobreado - representa valor e resultado
+          light: '#FFD166',   // variação clara para realces
+          dark: '#C77B14',    // variação escura para foco e profundidade
         },
         neutral: {
-          100: '#f8fafc', // slate-50
-          200: '#f1f5f9', // slate-100
-          300: '#e2e8f0', // slate-200
-          400: '#cbd5e1', // slate-300
-          500: '#94a3b8', // slate-400
-          600: '#64748b', // slate-500
-          700: '#475569', // slate-600
-          800: '#334155', // slate-700
-          900: '#1e293b', // slate-800
+          100: '#F9FAFB', // branco de fundo geral
+          200: '#F3F4F6', // fundo de seções alternadas
+          300: '#E5E7EB', // bordas suaves
+          400: '#D1D5DB', // bordas discretas
+          500: '#9CA3AF', // textos desabilitados
+          600: '#6B7280', // textos secundários
+          700: '#374151', // textos principais
+          800: '#1F2937', // fundo de rodapé
+          900: '#111827', // texto/fundo muito escuro
         }
       },
       fontFamily: {
